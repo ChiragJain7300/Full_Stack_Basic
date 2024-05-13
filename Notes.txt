@@ -1,0 +1,1 @@
+This Folder contains how a basic Fullstack application looks like.
